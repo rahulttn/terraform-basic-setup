@@ -52,6 +52,7 @@ terraform apply
 
 ## Inputs
 
+
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | <a name="input_vpc_name"></a> [vpc\_name](#input\_vpc\_name) | The VPC Subnet IDs to launch in | `string` | `"nonprod"` | no |
